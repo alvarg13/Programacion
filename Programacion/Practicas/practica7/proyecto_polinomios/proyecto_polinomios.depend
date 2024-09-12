@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575152211 source:c:\codeblocks\practicas\practica7\proyecto_polinomios\polinomios.cpp
+	"polinomios.hpp"
+
+1574713095 c:\codeblocks\practicas\practica7\proyecto_polinomios\polinomios.hpp
+	<iostream>
+
+1574713346 source:c:\codeblocks\practicas\practica7\proyecto_polinomios\main.cpp
+	<iostream>
+	<iomanip>
+	"polinomios.hpp"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574338979 source:c:\codeblocks\practicas\practica7\proyecto_vectores\mivector.cpp
+	"mivector.hpp"
+
+1574338845 c:\codeblocks\practicas\practica7\proyecto_vectores\mivector.hpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1574338897 source:c:\codeblocks\practicas\practica7\proyecto_vectores\main.cpp
+	<iostream>
+	"mivector.hpp"
+
